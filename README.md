@@ -20,7 +20,7 @@ The naming convention for element classes follows the BEM pattern:
 
 
 
-### ** scss tags ** 
+### **Scss tags** 
 For the quick location of sass files we will use tags in commented text, for example:
 
 - /*------------------------------------*\
@@ -32,7 +32,7 @@ For the quick location of sass files we will use tags in commented text, for exa
 
 The scss files are responsible for providing styles to the html elements, these are organized in the scss/ folder.
 
-### ** repository Structure scss/**
+### **Repository Structure scss/**
 
 - scss/
   - style.scss
