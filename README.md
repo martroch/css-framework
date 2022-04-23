@@ -18,9 +18,9 @@ The naming convention for element classes follows the BEM pattern:
 '.block__element' represents a child of the parent element '.block'.
 '.block--modifier' represents a different state from '.block'.
 
-<!-- Ejemplo sacado del proyecto -->
 
-### ** scss tags **
+
+### ** scss tags ** 
 For the quick location of sass files we will use tags in commented text, for example:
 
 - /*------------------------------------*\
